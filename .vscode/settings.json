@@ -1,0 +1,18 @@
+{
+    "cSpell.words": [
+        "asyncpg",
+        "awaf",
+        "boto",
+        "botocore",
+        "coloredlogs",
+        "CSPM",
+        "Dotenv",
+        "executemany",
+        "fastapi",
+        "pydantic",
+        "pymongo",
+        "seclogic",
+        "starlette",
+        "ujson"
+    ]
+}
